@@ -44,4 +44,4 @@
 - [ ] Список людей в очереди:
   - Случайная аватарка, ник, рейтинг
 ____
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/owlcodr/Washing-TimeTable)![Github All Contributors](https://img.shields.io/github/all-contributors/owlcodr/Washing-TimeTable/master) ![AUR last modified](https://img.shields.io/aur/last-modified/Washing-TimeTable)  ![GitHub top language](https://img.shields.io/github/languages/top/owlcodr/Washing-TimeTable) ![GitHub](https://img.shields.io/github/license/owlcodr/Washing-TimeTable)
+![https://img.shields.io/github/v/tag/owlcodr/Washing-TimeTable](https://img.shields.io/github/v/tag/owlcodr/Washing-TimeTable)![Github All Contributors](https://img.shields.io/github/all-contributors/owlcodr/Washing-TimeTable/master) ![AUR last modified](https://img.shields.io/aur/last-modified/Washing-TimeTable)  ![GitHub top language](https://img.shields.io/github/languages/top/owlcodr/Washing-TimeTable) ![GitHub](https://img.shields.io/github/license/owlcodr/Washing-TimeTable)
