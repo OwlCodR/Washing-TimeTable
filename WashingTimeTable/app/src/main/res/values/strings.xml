@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">Постирайка</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_washing_machines">Стиралки</string>
+    <string name="title_profile">Профиль</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Sync Preferences -->
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="campusMailSubtitle"><a href="https://mail.campus.mephi.ru/">Кампусная почта студента НИЯУ МИФИ</a></string>
+    <string name="signature_title">Smth1</string>
+    <string name="reply_title">Smth2</string>
+    <string name="sync_title">Smth3</string>
+    <string name="attachment_summary_off">Smth4</string>
+    <string name="attachment_summary_on">Smth5</string>
+    <string name="attachment_title">Smth6</string>
 </resources>
