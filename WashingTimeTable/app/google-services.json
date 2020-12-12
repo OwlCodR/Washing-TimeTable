@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100461074141",
+    "firebase_url": "https://washing-timetable.firebaseio.com",
+    "project_id": "washing-timetable",
+    "storage_bucket": "washing-timetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100461074141:android:00b8b808f327526ec8ad34",
+        "android_client_info": {
+          "package_name": "com.max.washing_timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100461074141-473u2lbiq7h88vclntbjrs1vpbqscd42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2T2h5fIrSX6uNes4y1B89PMsnUZfNUzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100461074141-473u2lbiq7h88vclntbjrs1vpbqscd42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -12,9 +12,9 @@
 
     <fragment
         android:id="@+id/navigation_washing_machines"
-        android:name="com.max.washing_timetable.FullscreenFragment"
+        android:name="com.max.washing_timetable.ui.washing_machines.ItemFragment"
         android:label="@string/title_washing_machines"
-        tools:layout="@layout/fragment_auth" />
+        tools:layout="@layout/fragment_item_list" />
 
     <fragment
         android:id="@+id/navigation_profile"

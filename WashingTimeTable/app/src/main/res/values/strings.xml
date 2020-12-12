@@ -10,11 +10,13 @@
     <!-- Sync Preferences -->
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="campusMailSubtitle"><a href="https://mail.campus.mephi.ru/">Кампусная почта студента НИЯУ МИФИ</a></string>
+    <string name="campusMailSubtitle"><u>Кампусная почта студента НИЯУ МИФИ</u></string>
+    <string name="campusMailLink">https://mail.campus.mephi.ru</string>
     <string name="signature_title">Smth1</string>
     <string name="reply_title">Smth2</string>
     <string name="sync_title">Smth3</string>
     <string name="attachment_summary_off">Smth4</string>
     <string name="attachment_summary_on">Smth5</string>
     <string name="attachment_title">Smth6</string>
+    <string name="settings_header">Настройки</string>
 </resources>

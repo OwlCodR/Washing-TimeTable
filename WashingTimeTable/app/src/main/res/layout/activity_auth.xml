@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorBackground"
-    android:theme="@style/ThemeOverlay.WashingTable.FullscreenContainer"
-    tools:context=".FullscreenFragment">
+    android:background="@color/colorBackground">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
@@ -134,10 +132,20 @@
                             android:textSize="14sp"
                             android:textStyle="bold" />
                     </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textViewEmailError"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingStart="3dp"
+                        android:text="Неправильный логин"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="10sp"
+                        android:visibility="gone" />
                 </LinearLayout>
 
                 <Button
-                    android:id="@+id/buttonRegister"
+                    android:id="@+id/buttonLogin"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:layout_marginTop="30dp"
@@ -148,7 +156,7 @@
                     android:textSize="14sp" />
 
                 <Button
-                    android:id="@+id/buttonLogin"
+                    android:id="@+id/buttonRegister"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:layout_marginTop="10dp"
@@ -162,7 +170,7 @@
                     android:topRightRadius="10dp" />
 
                 <TextView
-                    android:id="@+id/textViewEmailSubtitle"
+                    android:id="@+id/textViewCampusLink"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
